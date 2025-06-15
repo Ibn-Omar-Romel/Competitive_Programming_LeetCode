@@ -12,6 +12,5 @@ vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
 
 int main() {
 
-
     return 0;
 }
